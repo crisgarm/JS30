@@ -1,3 +1,3 @@
-## 03.Playing with CSS Variables and JS
+## 10.Hold Shift to Check Multiple Checkboxes
 
-<img src="./images/03.PNG">
+<img src="./images/readme-image.PNG">
